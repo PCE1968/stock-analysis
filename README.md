@@ -13,3 +13,7 @@ Our inital code worked well based on the original dataset. Here are the process 
 ![Inital 2017 process time](Resources/All_Stocks_Analysis_2017.png)
 
 ![Initial 2018 process time](Resources/All_Stocks_Analysis_2018.png)
+
+![Refactored 2017 process time](Resource/VBA_Challenge_2017.png)
+
+![Refactored 2018 process time](Resource/VBA_Challenge_2018.png)
