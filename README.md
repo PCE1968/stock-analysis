@@ -24,4 +24,4 @@ You can see that the output is the same, with only slight variance due to roundi
 
 ## Summary
 
-Writing code that will calculate the data in place can work just fine for smaller datasets. It is less complicated, so less prone to error. For larger datasets, using arrays to store and calculate the data will be more efficient. The biggest drawback for this particular code, it is not dynamic. If another ticker was added to teh list, this code would not be able to handle it without being updated to increase the size of the arrays.
+Writing code that will calculate the data in place can work just fine for smaller datasets. It is less complicated, so less prone to error. For larger datasets, using arrays to store and calculate the data will be more efficient. The biggest drawback for this particular code, it is not dynamic. If another ticker was added to the list, this code would not be able to handle it without being updated to increase the size of the arrays.
