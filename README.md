@@ -12,7 +12,7 @@ Our inital code worked well based on the original dataset. Here are the results 
 
 ![Inital 2017 process time](Resources/All_Stocks_Analysis_2017.png) ![Initial 2018 process time](Resources/All_Stocks_Analysis_2018.png)
 
-To refactor the code I used arrays to store the data for each ticker.
+To increase the efficiency and process time I refactored the code using arrays to store the data for each ticker.
 
 ![VBA code to declare the arrays](Resources/VBA_Refactored_using_arrays.png)
 
