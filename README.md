@@ -14,7 +14,7 @@ Our inital code worked well based on the original dataset. Here are the process 
 
 To refactor the code I used arrays to store the data for each ticker.
 
-![VBA code to declare the arrays](Resource/VBA_Refactored_using_arrays.png)
+![VBA code to declare the arrays](Resources/VBA_Refactored_using_arrays.png)
 
 Here are the process times after the code has been refactored.
 
