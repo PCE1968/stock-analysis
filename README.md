@@ -12,8 +12,12 @@ Our inital code worked well based on the original dataset. Here are the process 
 
 ![Inital 2017 process time](Resources/All_Stocks_Analysis_2017.png) ![Initial 2018 process time](Resources/All_Stocks_Analysis_2018.png)
 
+To refactor the code I used arrays to store the data for each ticker.
+
+![VBA code to declare the arrays](Resource/VBA_Refactored_using_arrays.png)
+
 Here are the process times after the code has been refactored.
 
 ![Refactored 2017 process time](Resources/VBA_Challenge_2017.png) ![Refactored 2018 process time](Resources/VBA_Challenge_2018.png)
 
-
+You can see that the output is the same, with only slight variance due to rounding.
